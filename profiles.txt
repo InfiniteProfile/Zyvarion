@@ -1,0 +1,4 @@
+# Optional overrides for generated profiles. Only name and bio can be replaced.
+profile: 1
+name: Zyvar Prime
+bio: The first identity. Keeper of the opening loop.

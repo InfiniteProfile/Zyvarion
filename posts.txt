@@ -1,0 +1,20 @@
+# Posts. Blocks are separated by a line containing only --- (3+ hyphens).
+# Keys: id (required, permanent, never reuse), profile, title, content (may span lines), media (repeatable).
+# media examples: a direct image/.mp4/.mp3 URL, a github.com/.../blob/... link, a YouTube or Shorts URL.
+id: zyvarion-post-0001
+profile: 1
+title: First Discovery
+content: Welcome to my corner of Zyvarion.
+Hyphens - like this - stay ordinary text.
+
+Blank lines inside content are kept.
+---
+id: zyvarion-post-0002
+profile: 1
+title: Another Discovery
+content: Every identity has a story.
+---
+id: zyvarion-post-0003
+profile: 123456789012345678901234567890
+title: A Very Large Address
+content: This identity sits far beyond JavaScript's safe-integer range and still resolves exactly.
